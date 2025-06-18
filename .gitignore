@@ -1,0 +1,20 @@
+# Entornos virtuales
+venv/
+env/
+.env/
+# Bytecode y cachés
+__pycache__/
+*.py[cod]
+*.pyo
+# VSCode
+.vscode/
+# Archivos de logs y reports
+*.log
+.coverage
+htmlcov/
+# Cachés de pruebas y análisis
+.pytest_cache/
+.mypy_cache/
+# Otros archivos temporales
+*.sqlite3
+.DS_Store
