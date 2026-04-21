@@ -1,20 +1,27 @@
 # 🔁 testpruebasregresivas
 
-Repositorio orientado a **pruebas de regresión**, pensado para validar que cambios nuevos no rompan funcionalidades existentes.
+Repositorio orientado a **pruebas de regresión**, pensado para validar que cambios recientes no rompan funcionalidades existentes.
 
-## Descripción
+---
 
-Su foco está en mantener estabilidad funcional a través de validaciones repetibles y revisión de comportamiento previo.
+## 📌 Objetivo
 
-## Objetivo
+Mantener un enfoque preventivo sobre la calidad del software, dejando una base para repetir validaciones tras modificaciones del sistema.
 
-Aportar una base para estrategias de prueba orientadas a mantenimiento y prevención de regresiones.
+## 🧩 Qué aporta
 
-## Uso
+- Enfoque de estabilidad funcional.
+- Repetibilidad de validaciones.
+- Soporte para ciclos de mantenimiento y evolución.
 
-Explora la estructura del repositorio y ejecuta los tests o validaciones según la herramienta usada.
+## ▶️ Uso general
 
-## Autor
+```bash
+git clone git@github.com:Carl0gonzalez/testpruebasregresivas.git
+cd testpruebasregresivas
+```
+
+## 👤 Autor
 
 **Carlo González**
 
